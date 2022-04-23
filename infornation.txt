@@ -1,1 +1,2 @@
 create a new txt file  in your directory and add something to push 
+adding something  t cnflict
